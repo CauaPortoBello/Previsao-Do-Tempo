@@ -1,15 +1,14 @@
 # ☀️ API De Previsão Do Tempo
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 <p align="center">
-  <strong>API RESTful para consulta e monitoramento de dados climáticos em tempo real.</strong><br>
-  <strong>RESTful API for querying and monitoring real-time weather data.</strong>
+  <strong>Aplicação web para consulta e monitoramento de dados climáticos em tempo real.</strong><br>
+  <strong>Web application for querying and monitoring real-time weather data.</strong>
 </p>
 
 <p align="center">
@@ -49,11 +48,9 @@ O sistema funciona como um microsserviço intermediário que se conecta a proved
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java (JDK 17+)** – Linguagem base focada em tipagem forte e performance orientada a objetos.
-- **Spring Boot** – Framework para agilizar o setup de aplicações prontas para produção.
-- **Spring Web** – Módulo para criação de endpoints REST e controle de requisições HTTP.
-- **Jackson/JSON** – Serialização e desserialização eficiente de payloads de dados.
-- **Maven** – Gerenciador de dependências e automação de build do projeto.
+- **HTML5:** Estruturação semântica da interface gráfica.
+- **CSS3:** Estilização moderna, estruturação de layout e total responsividade.
+- **JavaScript (ES6+):** Lógica de consumo de API externa, manipulação dinâmica do DOM, tratamento de eventos e renderização dos dados na tela.
 
 ---
 
@@ -97,11 +94,9 @@ The system acts as an intermediary microservice that connects to global weather 
 
 ## 🛠️ Technologies Used
 
-- **Java (JDK 17+)** – Base programming language focused on strong typing and object-oriented performance.
-- **Spring Boot** – Framework to accelerate the setup of production-ready applications.
-- **Spring Web** – Module for creating REST endpoints and managing HTTP requests.
-- **Jackson/JSON** – Efficient serialization and deserialization of data payloads.
-- **Maven** – Dependency management and project build automation.
+- **HTML5:** Semantic structuring of the graphical user interface.
+- **CSS3:** Modern styling, layout structuring, and full responsiveness.
+- **JavaScript (ES6+):** Logic for external API consumption, dynamic DOM manipulation, event handling, and data rendering on the screen.
 
 ---
 
